@@ -641,8 +641,7 @@ Right-click any site name on Pages 1 or 2 to access site-level drill-through det
 **Emmanuel Idowu**
 Power BI Developer · Data Analytics Professional · Oil & Gas Operations Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Idowu-0A66C2?style=flat&logo=linkedin)]([https://www.linkedin.com/in/emmanuelidowu](https://www.linkedin.com/in/emmanuel-idowu-analyst/ 
-))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Idowu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuel-idowu-analyst/)
 
 ---
 
