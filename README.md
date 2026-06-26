@@ -195,7 +195,7 @@ The page is a toggle that replaces all production-specific metrics and visuals w
 
 | # | Visual | Business Question Answered |
 |---|---|---|
-| 1 | Area + line combo — Production Target, Total Production (area), Prod vs. Target % (line) by Month-Year | Is production improving or deteriorating month-on-month? Are we above or below target consistently? |
+| 1 | Column Chart  with Ref Line + line combo — Production Target (Ref Line), Total Production (Columnn Chart), Prod vs. Target % (Secondary line) by Month-Year | Is production improving or deteriorating month-on-month? Are we above or below target consistently? |
 | 2 | Scatter plot — Utilization % vs. Production Gap by Site Name, legend: Site Type | Which specific sites are underutilising capacity AND generating the largest production gaps? |
 | 3 | Bar chart — Capacity Utilization % by Region (drill down to Country) with 80% reference line | Which regions are operating efficiently? Which are structurally below the utilisation floor? |
 | 4 | Heatmap — Site Name × Target Dimension (Production, Revenue, Downtime, CO₂, Safety, Utilization). Dark green = above target, light green = within 5%, pink = below target | At a glance: which sites are multi-dimensional underperformers requiring priority intervention? |
@@ -220,7 +220,7 @@ The page is a toggle that replaces all production-specific metrics and visuals w
 
 | # | Visual | Business Question Answered |
 |---|---|---|
-| 1 | Area + line combo — Revenue Target, Total Revenue (area), Rev vs. Target % (line) by Month-Year | Is revenue tracking ahead or behind target? Where are the most significant monthly misses? |
+| 1 |  Column Chart  with Ref Line + line combo — Revenue Target (Ref Line), Total Revenue (Columnn Chart), Rev vs. Target % (Secondary line) by Month-Year | Is revenue tracking ahead or behind target? Where are the most significant monthly misses? |
 | 2 | Scatter plot — Utilization % vs. Revenue Gap by Site Name, legend: Site Type | Which sites are leaving the most revenue on the table relative to their capacity? |
 | 3 | Bar chart — Capacity Utilization % by Region (drill down to Country) with 80% reference line | Same as production view — maintains context continuity across toggle |
 | 4 | Waterfall chart — Revenue gap breakdown by root cause driver | What specifically is causing the revenue miss: production volume, downtime hours, oil price variance, or maintenance overspend? |
